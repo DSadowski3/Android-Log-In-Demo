@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Login Demo</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Passowrod</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_phoneNumber">Phone Number</string>
+    <string name="prompt_note">Note</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="error_invlidEmail">This Email Address is Invalid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_url_not_found">Invalid URL: PHP file not found</string>
+    <string name="error_passoword_lenght">Passowrd length must be at least 5 characters</string>
+    <string name="info_lable">User Information</string>
+
+
+</resources>
